@@ -1,7 +1,5 @@
 # A Company's Budget App, Using REACT
 
-To access the deployed app, click [here](http://Bamidele0102.github.io/a-company-react_budget_app)
-
 This is the README file for the app. It provides an overview of the project and instructions on how to use it.
 
 ## Getting Started
