@@ -1,5 +1,7 @@
 # A Company's Budget App, Using REACT
 
+To access the deployed app, click [here](http://Bamidele0102.github.io/a-company-react_budget_app)
+
 This is the README file for the app. It provides an overview of the project and instructions on how to use it.
 
 ## Getting Started
@@ -31,6 +33,14 @@ To get started with the React Budget App, follow these steps:
     ```
 
 5. Open your browser and visit `http://localhost:3000` to access the app.
+
+6. Deployment
+
+ ```bash
+        npm run build
+```
+
+This will create a `build` directory containing the compiled files. You can deploy this directory to a web server.
 
 ## Features
 
