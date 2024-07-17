@@ -1,6 +1,8 @@
 # A Company's Budget App, Using REACT
 
-This is the README file for the app. It provides an overview of the project and instructions on how to use it.
+This is the repository for a Company's budget app. It provides an overview of the project and instructions on how to use it.
+
+![A budget app](./public/budget-app.png)
 
 ## Getting Started
 
