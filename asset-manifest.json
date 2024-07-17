@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/a-company-react_budget_app/static/css/main.ff02f4b5.css",
+    "main.js": "/a-company-react_budget_app/static/js/main.8e04fa6b.js",
+    "static/js/453.4c44d50b.chunk.js": "/a-company-react_budget_app/static/js/453.4c44d50b.chunk.js",
+    "index.html": "/a-company-react_budget_app/index.html",
+    "main.ff02f4b5.css.map": "/a-company-react_budget_app/static/css/main.ff02f4b5.css.map",
+    "main.8e04fa6b.js.map": "/a-company-react_budget_app/static/js/main.8e04fa6b.js.map",
+    "453.4c44d50b.chunk.js.map": "/a-company-react_budget_app/static/js/453.4c44d50b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.8e04fa6b.js"
+  ]
+}
