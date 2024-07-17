@@ -2,7 +2,7 @@
 
 This is the repository for a Company's budget app. It provides an overview of the project and instructions on how to use it.
 
-![A budget app](./public/budget-app.png)
+[![A budget app](./public/budget-app.png)](http://Bamidele0102.github.io/a-company-react_budget_app)
 
 ## Getting Started
 
